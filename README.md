@@ -2,7 +2,7 @@
 ### Smarter is always the answer.
 ![Minseom's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstja98&show_icons=true&theme=great-gatsby) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstja98&layout=compact&theme=great-gatsby)
-</div\>
+</div>
 <!--
 **alstja98/alstja98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
