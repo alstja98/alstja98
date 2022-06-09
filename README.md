@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Java-informational?style={plastic}&logo=Java&logoColor={007396}"/><img src="https://img.shields.io/badge/JavaScript-lightgrey?style={plastic}&logo=JavaScript&logoColor={F7DF1E}"/>
 <img src="https://img.shields.io/badge/MySQL-yellow?style={plastic}&logo=MySQL&logoColor={4479A1}"/>
 <img src="https://img.shields.io/badge/Python-white?style={plastic}&logo=Python&logoColor={3776AB}"/>
-<img src="https://img.shields.io/badge/HTML5-orange?style={plastic}&logo=Python&logoColor={E34F26}"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style={plastic}&logo=HTML5&logoColor={E34F26}"/>
 <img src="https://img.shields.io/badge/Spring-green?style={plastic}&logo=Spring&logoColor={6DB33F}"/>
 <img src="https://img.shields.io/badge/CSS3-informational?style={plastic}&logo=CSS3&logoColor={1572B6}"/> <br>
 <img src="https://img.shields.io/badge/GitHub-black?style={plastic}&logo=Github&logoColor={181717}"/>
