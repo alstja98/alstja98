@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/MySQL-yellow?style={plastic}&logo=MySQL&logoColor={4479A1}"/>
 <img src="https://img.shields.io/badge/Python-white?style={plastic}&logo=Python&logoColor={3776AB}"/>
 <img src="https://img.shields.io/badge/C-yellow?style={plastic}&logo=C&logoColor={3776AB}"/>
-<img src="https://img.shields.io/badge/C%23-white?style={plastic}&logo=C%23&logoColor={3776AB}"/>
+<img src="https://img.shields.io/badge/C%23-lightgrey?style={plastic}&logo=C%23&logoColor={3776AB}"/>
 <img src="https://img.shields.io/badge/Dart-white?style={plastic}&logo=Dart&logoColor={3776AB}"/>
 <br>[Framework]<br>
 <img src="https://img.shields.io/badge/Springboot-green?style={plastic}&logo=Springboot&logoColor={6DB33F}"/>
