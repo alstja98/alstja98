@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Python-white?style={plastic}&logo=Python&logoColor={3776AB}"/>
 <img src="https://img.shields.io/badge/C-yellow?style={plastic}&logo=C&logoColor={3776AB}"/>
 <img src="https://img.shields.io/badge/C%23-lightgrey?style={plastic}&logo=C%23&logoColor={3776AB}"/>
-<img src="https://img.shields.io/badge/Dart-white?style={plastic}&logo=Dart&logoColor={3776AB}"/>
+<img src="https://img.shields.io/badge/Dart-black?style={plastic}&logo=Dart&logoColor={181717}"/>
 <br>[Framework]<br>
 <img src="https://img.shields.io/badge/Springboot-green?style={plastic}&logo=Springboot&logoColor={6DB33F}"/>
 <img src="https://img.shields.io/badge/Django-blue?style={plastic}&logo=Django&logoColor={6DB33F}"/>
