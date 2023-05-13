@@ -21,6 +21,7 @@
 <br>[Workspace]<br>
 <img src="https://img.shields.io/badge/GitHub-black?style={plastic}&logo=Github&logoColor={181717}"/>
 <img src="https://img.shields.io/badge/Notion-grey?style={plastic}&logo=Notion&logoColor={000000}"/>
+<img src="https://img.shields.io/badge/Slack-blue?style={plastic}&logo=Slack&logoColor={000000}"/>
 #
   
 </div>
