@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Springboot-green?style={plastic}&logo=Springboot&logoColor={6DB33F}"/>
 <img src="https://img.shields.io/badge/Django-blue?style={plastic}&logo=Django&logoColor={6DB33F}"/>
 <img src="https://img.shields.io/badge/React-sky?style={plastic}&logo=React&logoColor={6DB33F}"/>
-<img src="https://img.shields.io/badge/Flutter-white?style={plastic}&logo=Flutter&logoColor={6DB33F}"/>
+<img src="https://img.shields.io/badge/Flutter-blue?style={plastic}&logo=Flutter&logoColor={6DB33F}"/>
 <br>[Workspace]<br>
 <img src="https://img.shields.io/badge/GitHub-black?style={plastic}&logo=Github&logoColor={181717}"/>
 <img src="https://img.shields.io/badge/Notion-grey?style={plastic}&logo=Notion&logoColor={000000}"/>
