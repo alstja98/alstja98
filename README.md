@@ -2,7 +2,7 @@
   
 # 👊Just Do it!👊
 
-![Minseom's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstja98&show_icons=true&theme=great-gatsby)
+<!-- ![Minseom's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstja98&show_icons=true&theme=great-gatsby) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstja98&layout=compact&theme=great-gatsby)
 # 🔥Tech Stack🔥
 [Language]<br>
